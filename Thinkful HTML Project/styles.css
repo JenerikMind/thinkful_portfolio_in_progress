@@ -50,6 +50,9 @@ footer li{
 a, h3, h1{
     color: white;
 }
+hr{
+    border-color: white;
+}
 #logo img{
     box-shadow: inset;
     border-radius: 8px;
